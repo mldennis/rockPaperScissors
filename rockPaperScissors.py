@@ -57,3 +57,5 @@ while(keepPlaying):
     if(cpuScore== 2):
         print("You Lose!!!")
     print("Human: " + humanScore.__str__() +  "CPU:" + cpuScore.__str__())
+    
+    #testme
